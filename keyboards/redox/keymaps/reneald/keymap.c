@@ -6,13 +6,13 @@
 // entirely and just use numbers.
 #define _QWERTY 0
 #define _SYMB 1
-#define _NAV 2
+#define _INTEL 2
 #define _ADJUST 3
 
 enum custom_keycodes {
   QWERTY = SAFE_RANGE,
   SYMB,
-  NAV,
+  INTEL,
   ADJUST,
 };
 
