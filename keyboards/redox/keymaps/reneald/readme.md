@@ -7,6 +7,8 @@ Just a simple keymap with a few changes to the default layout
 * Replaced one MO(_SYMB) key with TG(_SYMB) for easier numpad use
 * Removed _NAV layer completely
 * Switched UP and DOWN keys around because that makes more sense in my head
+* Added volume controls on _ADJUST layer
+* added _INTEL layer with some shortcuts for IntelliJ IDEA
 
 ## To Do
-* Figure out what to do with left hand keys in _SYMB. Repeating symbols that I already can find on the default layer seems redundant. Maybe introduce some shortcuts for IntelliJ IDEA
+* Figure out what to do with left hand keys in _SYMB. Repeating symbols that I already can find on the default layer seems redundant.
